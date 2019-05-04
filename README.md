@@ -1,6 +1,10 @@
 # NorSynthClinical
 
-Data and system for family history extraction from a synthetic corpus of Norwegian clinical text. The paper desccribing this work, entitled **Iterative development of family history annotation guidelines using a
+Data and system for family history extraction from a synthetic corpus of Norwegian clinical text.
+
+[![DOI](https://zenodo.org/badge/184890863.svg)](https://zenodo.org/badge/latestdoi/184890863)
+
+The paper describing this work, entitled **Iterative development of family history annotation guidelines using a
 synthetic corpus of clinical text**, was presented at [LOUHI](https://louhi2018.fbk.eu/home) workshop which is collocated with [EMNLP 2018](http://emnlp2018.org).
 
 The co-authors of the paper are Pål Brekke, Øystein Nytrø, Lilja Øvrelid. The work is funded by [BIGMED](https://bigmed.no/) project.
